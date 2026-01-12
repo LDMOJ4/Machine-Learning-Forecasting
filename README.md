@@ -4,7 +4,7 @@ Repo to store all code from machine learning and forecasting module.
 #### Clone the repository
 Open a new a terminal, and whilst in your homespace (`/home/jovyan`) run:
 ```
-git clone git clone git@github.com:LDMOJ4/Machine-Learning-Forecasting.git
+git clone git@github.com:LDMOJ4/Machine-Learning-Forecasting.git
 ```
 #### Create a virtual environment with `venv`
 Python users are recommended to use `venv` for package management. To setup a `venv` run the following commands:
